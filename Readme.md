@@ -1,7 +1,7 @@
 
 
 # Luhn Algorithm for Credit Card Validation
-This is a Python implementation of the Luhn Algorithm, a simple checksum formula used to validate credit card numbers.
+This is a Python & C implementation of the Luhn Algorithm, a simple checksum formula used to validate credit card numbers.
 
 # Requirements
 
