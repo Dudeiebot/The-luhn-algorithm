@@ -1,1 +1,2 @@
-*.C linguist-detectable=false
+*.c linguist-detectable=false
+*.python linguist-detectable=true
