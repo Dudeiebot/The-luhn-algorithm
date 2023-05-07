@@ -6,7 +6,7 @@ This is a Python & C implementation of the Luhn Algorithm, a simple checksum for
 # Requirements
 
 To run this code, you will need:
-* Python 3.x
+* Python 3.x and maybe C
 
 # Usage
 To use the Luhn Algorithm, simply call the get_credit_card_number() function and pass in the credit card number as a string:
